@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mikebraz/Desktop/faculta/RC/CyclicRedundancyCode/main.cpp
+iostream
+-
+string
+-
+vector
+-
+
